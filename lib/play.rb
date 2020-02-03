@@ -48,8 +48,3 @@ def play(board)
     end
   end
 end
-
-board = ["X"," "," "," "," "," "," "," "," "]
-puts "Welcome to Tic Tac Toe!"
-puts display_board(board)
-play(board)
